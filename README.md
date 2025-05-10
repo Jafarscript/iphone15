@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` for your **iPhone 15 Landing Page Clone** project:
 
----
-
-````markdown
 # 📱 iPhone 15 Landing Page Clone
 
 An immersive, high-fidelity clone of Apple's iPhone 15 landing page. Built with React, Vite, Three.js, GSAP, and Tailwind CSS to replicate smooth scroll animations, 3D visuals, and responsive interactions.
